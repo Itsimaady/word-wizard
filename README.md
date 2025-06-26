@@ -15,8 +15,3 @@
 - JavaScript (Fetch API)
 - [Free Dictionary API](https://dictionaryapi.dev/)
 
-## 🚀 Run Locally
-```bash
-git clone https://github.com/yourusername/word-wizard.git
-cd word-wizard
-open index.html
